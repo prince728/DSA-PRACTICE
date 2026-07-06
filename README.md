@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0098-validate-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
