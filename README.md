@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/prince728/DSA-PRACTICE/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/prince728/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/prince728/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -135,5 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prince728/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prince728/DSA-PRACTICE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prince728/DSA-PRACTICE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
