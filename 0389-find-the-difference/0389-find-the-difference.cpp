@@ -1,17 +1,17 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        char ans = 0;
+        int ans = 0;
         
-        for (char c : s) {
-            ans ^= c;
+        for (char c : t) {
+            ans+=c;
         }
         
      
-        for (char c : t) {
-            ans ^= c;
+        for (char c : s) {
+            ans -= c;
         }
         
-        return ans;
+        return (char)ans;
     }
 };
