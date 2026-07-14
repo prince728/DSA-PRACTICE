@@ -44,7 +44,7 @@ public:
                 }
             }
 
-            maxWidth = std::max(maxWidth, last - first + 1);
+            maxWidth = max(maxWidth, last - first + 1);
         }
 
         return maxWidth;
