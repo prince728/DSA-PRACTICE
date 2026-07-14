@@ -17,7 +17,7 @@ public:
             return 0;
 
         long long maxWidth = 0;
-        std::queue<std::pair<TreeNode*, long long>> q;
+        queue<pair<TreeNode*, long long>> q;
         q.push({root, 0});
 
         while (!q.empty()) {
