@@ -16,13 +16,13 @@ public:
             slow=slow->next;
 
             if(slow==fast){
-                unordered_map<ListNode*,bool>mp;
-                ListNode*temp = head;
-                while(temp){
-                    if(mp[temp]==1) return temp;
-                    mp[temp]=1;
-                    temp=temp->next;
+                ListNode *entry = head;
+                
+                while (entry != slow) {
+                    entry = entry->next;
+                    slow = slow->next;
                 }
+                return entry; 
 
             }
         }
