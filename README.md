@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/prince728/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince728/DSA-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/prince728/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince728/DSA-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0202-happy-number) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/prince728/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince728/DSA-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
