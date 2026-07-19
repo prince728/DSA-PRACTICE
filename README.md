@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prince728/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/prince728/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/prince728/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prince728/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prince728/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prince728/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 ## String
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/prince728/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/prince728/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/prince728/DSA-PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prince728/DSA-PRACTICE/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/prince728/DSA-PRACTICE/tree/master/0390-elimination-game) |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prince728/DSA-PRACTICE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 ## Recursion
