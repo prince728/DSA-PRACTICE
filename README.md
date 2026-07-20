@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 ## Design
 |  |
 | ------- |
