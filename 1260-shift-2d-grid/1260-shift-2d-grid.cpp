@@ -14,6 +14,9 @@ public:
     
  }
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
+       int totalElements = grid.size()*grid[0].size();
+        k = k % totalElements;
+        if (k == 0) return grid;
         for(int i=0;i<k;i++){
         shift(grid);
         }
