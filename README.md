@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
+| [0434-number-of-segments-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/prince728/DSA-PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
