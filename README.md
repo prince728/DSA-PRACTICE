@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/prince728/DSA-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prince728/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/prince728/DSA-PRACTICE/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/prince728/DSA-PRACTICE/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prince728/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince728/DSA-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/prince728/DSA-PRACTICE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/prince728/DSA-PRACTICE/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/prince728/DSA-PRACTICE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prince728/DSA-PRACTICE/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/prince728/DSA-PRACTICE/tree/master/0390-elimination-game) |
