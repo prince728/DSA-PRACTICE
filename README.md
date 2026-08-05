@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/prince728/DSA-PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/prince728/DSA-PRACTICE/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0541-reverse-string-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/prince728/DSA-PRACTICE/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
