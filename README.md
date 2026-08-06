@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/prince728/DSA-PRACTICE/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prince728/DSA-PRACTICE/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/prince728/DSA-PRACTICE/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/prince728/DSA-PRACTICE/tree/master/0390-elimination-game) |
+| [0441-arranging-coins](https://github.com/prince728/DSA-PRACTICE/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
