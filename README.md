@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/prince728/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/prince728/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prince728/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/prince728/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/prince728/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/prince728/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/prince728/DSA-PRACTICE/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
