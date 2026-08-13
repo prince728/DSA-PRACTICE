@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/prince728/DSA-PRACTICE/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/prince728/DSA-PRACTICE/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
 | [2652-sum-multiples](https://github.com/prince728/DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
