@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/prince728/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/prince728/DSA-PRACTICE/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/prince728/DSA-PRACTICE/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/prince728/DSA-PRACTICE/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
 | [2652-sum-multiples](https://github.com/prince728/DSA-PRACTICE/tree/master/2652-sum-multiples) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prince728/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 ## String Matching
 |  |
@@ -422,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
