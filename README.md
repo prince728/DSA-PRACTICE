@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prince728/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/prince728/DSA-PRACTICE/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0525-contiguous-array) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/prince728/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 ## String Matching
 |  |
