@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/prince728/DSA-PRACTICE/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
