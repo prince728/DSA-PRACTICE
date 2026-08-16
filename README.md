@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0606-construct-string-from-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/prince728/DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/prince728/DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/prince728/DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
