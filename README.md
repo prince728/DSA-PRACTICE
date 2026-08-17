@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
+| [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
+| [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Queue
 |  |
