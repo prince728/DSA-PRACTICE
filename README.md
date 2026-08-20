@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -493,4 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
