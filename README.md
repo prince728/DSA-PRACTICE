@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0697-degree-of-an-array) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## String
