@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
