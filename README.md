@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/prince728/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Stack
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prince728/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/prince728/DSA-PRACTICE/tree/master/0506-relative-ranks) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Quickselect
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## String Matching
 |  |
 | ------- |
@@ -494,10 +499,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prince728/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prince728/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
