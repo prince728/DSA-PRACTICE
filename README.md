@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/prince728/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/prince728/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/prince728/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prince728/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prince728/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/prince728/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/prince728/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/prince728/DSA-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/prince728/DSA-PRACTICE/tree/master/0419-battleships-in-a-board) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
