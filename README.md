@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0697-degree-of-an-array) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/prince728/DSA-PRACTICE/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
