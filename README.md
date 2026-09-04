@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/prince728/DSA-PRACTICE/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince728/DSA-PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0905-sort-array-by-parity](https://github.com/prince728/DSA-PRACTICE/tree/master/0905-sort-array-by-parity) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/prince728/DSA-PRACTICE/tree/master/0419-battleships-in-a-board) |
+| [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 ## Greedy
 |  |
