@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2652-sum-multiples](https://github.com/prince728/DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
@@ -567,4 +569,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
