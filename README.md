@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/prince728/DSA-PRACTICE/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/prince728/DSA-PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/prince728/DSA-PRACTICE/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
