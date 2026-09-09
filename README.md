@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/prince728/DSA-PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0965-univalued-binary-tree) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/prince728/DSA-PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0965-univalued-binary-tree) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/prince728/DSA-PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0965-univalued-binary-tree) |
