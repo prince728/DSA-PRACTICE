@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/prince728/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0385-mini-parser](https://github.com/prince728/DSA-PRACTICE/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prince728/DSA-PRACTICE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0385-mini-parser](https://github.com/prince728/DSA-PRACTICE/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/prince728/DSA-PRACTICE/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prince728/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
+| [0385-mini-parser](https://github.com/prince728/DSA-PRACTICE/tree/master/0385-mini-parser) |
 | [0404-sum-of-left-leaves](https://github.com/prince728/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/prince728/DSA-PRACTICE/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
