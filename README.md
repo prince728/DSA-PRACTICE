@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince728/DSA-PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
+| [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0905-sort-array-by-parity](https://github.com/prince728/DSA-PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince728/DSA-PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/prince728/DSA-PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/prince728/DSA-PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
