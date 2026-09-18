@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/prince728/DSA-PRACTICE/tree/master/0031-next-permutation) |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/prince728/DSA-PRACTICE/tree/master/0162-find-peak-element) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/prince728/DSA-PRACTICE/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/prince728/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prince728/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
