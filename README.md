@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prince728/DSA-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0897-increasing-order-search-tree) |
+| [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/prince728/DSA-PRACTICE/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Math
 |  |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
+| [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
