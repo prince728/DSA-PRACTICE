@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/prince728/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/prince728/DSA-PRACTICE/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/prince728/DSA-PRACTICE/tree/master/0565-array-nesting) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/prince728/DSA-PRACTICE/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/prince728/DSA-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/prince728/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/prince728/DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -638,11 +640,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/prince728/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/prince728/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/prince728/DSA-PRACTICE/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/2050-parallel-courses-iii) |
