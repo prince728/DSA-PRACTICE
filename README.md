@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0565-array-nesting](https://github.com/prince728/DSA-PRACTICE/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/prince728/DSA-PRACTICE/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/prince728/DSA-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/prince728/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/prince728/DSA-PRACTICE/tree/master/0617-merge-two-binary-trees) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [2050-parallel-courses-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/2050-parallel-courses-iii) |
 ## Binary Search Tree
 |  |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/prince728/DSA-PRACTICE/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/prince728/DSA-PRACTICE/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
