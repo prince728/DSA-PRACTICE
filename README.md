@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/prince728/DSA-PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/prince728/DSA-PRACTICE/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0897-increasing-order-search-tree) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/prince728/DSA-PRACTICE/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -654,11 +656,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prince728/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prince728/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/prince728/DSA-PRACTICE/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/2050-parallel-courses-iii) |
@@ -678,4 +682,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/2050-parallel-courses-iii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
