@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/prince728/DSA-PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/prince728/DSA-PRACTICE/tree/master/0814-binary-tree-pruning) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/prince728/DSA-PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/prince728/DSA-PRACTICE/tree/master/0841-keys-and-rooms) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prince728/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/prince728/DSA-PRACTICE/tree/master/0506-relative-ranks) |
+| [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/prince728/DSA-PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/prince728/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/prince728/DSA-PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/prince728/DSA-PRACTICE/tree/master/0841-keys-and-rooms) |
@@ -723,4 +727,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/prince728/DSA-PRACTICE/tree/master/0944-delete-columns-to-make-sorted) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
