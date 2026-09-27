@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/prince728/DSA-PRACTICE/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/prince728/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/prince728/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/prince728/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/prince728/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/prince728/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/prince728/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prince728/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prince728/DSA-PRACTICE/tree/master/0242-valid-anagram) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/prince728/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/prince728/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/prince728/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
