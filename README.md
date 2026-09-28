@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prince728/DSA-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/prince728/DSA-PRACTICE/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [2050-parallel-courses-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/2050-parallel-courses-iii) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
+| [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Quickselect
 |  |
@@ -591,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -677,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/prince728/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/prince728/DSA-PRACTICE/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -741,4 +748,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
