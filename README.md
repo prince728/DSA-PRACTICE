@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 ## Math
 |  |
 | ------- |
