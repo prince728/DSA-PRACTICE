@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/prince728/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
+| [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/prince728/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/prince728/DSA-PRACTICE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prince728/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prince728/DSA-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/prince728/DSA-PRACTICE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0202-happy-number) |
@@ -718,10 +721,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Topological Sort
 |  |
@@ -768,4 +773,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/prince728/DSA-PRACTICE/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
