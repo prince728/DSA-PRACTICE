@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prince728/DSA-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
