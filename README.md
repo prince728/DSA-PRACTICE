@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
 ## Math
 |  |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/prince728/DSA-PRACTICE/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0989-add-to-array-form-of-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2652-sum-multiples](https://github.com/prince728/DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
