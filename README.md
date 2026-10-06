@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince728/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/prince728/DSA-PRACTICE/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/prince728/DSA-PRACTICE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince728/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince728/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Monotonic Stack
 |  |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prince728/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Queue
 |  |
