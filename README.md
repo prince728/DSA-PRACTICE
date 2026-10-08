@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/prince728/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/prince728/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0189-rotate-array) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/prince728/DSA-PRACTICE/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prince728/DSA-PRACTICE/tree/master/0342-power-of-four) |
