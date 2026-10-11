@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/prince728/DSA-PRACTICE/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/prince728/DSA-PRACTICE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prince728/DSA-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/prince728/DSA-PRACTICE/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0989-add-to-array-form-of-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/prince728/DSA-PRACTICE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -818,4 +820,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/prince728/DSA-PRACTICE/tree/master/0223-rectangle-area) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/prince728/DSA-PRACTICE/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
