@@ -1,27 +1,15 @@
 class Solution {
 public:
     int minTimeToVisitAllPoints(vector<vector<int>>& points) {
-        int n=points.size();
-        int steps = 0;
-
-        for(int i=0;i<n-1;i++){
-            int x= points[i][0];
-            int y= points[i][1];
-
-            int targetX = points[i+1][0];
-            int targetY = points[i+1][1];
-
-            while(x!=targetX || y!=targetY){
-                if(x-targetX>0)x--;
-                else if(x-targetX<0) x++;
-
-                if(y-targetY>0) y--;
-                else if(y-targetY<0) y++;
-
-                steps++;
-            }
+        int sum = 0;
+        int n = points.size();
+        for(int i=1;i<n;++i){
+            int v1 = points[i][1], v0 = points[i][0];
+            int u1 = points[i-1][1], u0 = points[i-1][0];
+            int diff1 = abs(v1-u1), diff2 = abs(v0-u0);
+            if(diff1==diff2) sum+=diff1;
+            else sum+=(max(diff1,diff2));
         }
-
-        return steps;
+        return sum;
     }
 };
