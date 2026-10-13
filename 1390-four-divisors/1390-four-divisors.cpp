@@ -4,7 +4,8 @@ public:
         int sum = 0;
         int count = 0;
 
-        if (num < 1) return {0, 0};
+        if (num < 1)
+            return {0, 0};
 
         for (int i = 1; i * i <= num; i++) {
             if (num % i == 0) {
@@ -15,6 +16,8 @@ public:
                     sum += (num / i);
                 }
             }
+            if (count > 4)
+                break;
         }
 
         return pair<int, int>{count, sum};
