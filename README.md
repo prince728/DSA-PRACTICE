@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prince728/DSA-PRACTICE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1390-four-divisors](https://github.com/prince728/DSA-PRACTICE/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prince728/DSA-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prince728/DSA-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prince728/DSA-PRACTICE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1390-four-divisors](https://github.com/prince728/DSA-PRACTICE/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2652-sum-multiples](https://github.com/prince728/DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -829,4 +831,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/prince728/DSA-PRACTICE/tree/master/0223-rectangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prince728/DSA-PRACTICE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince728/DSA-PRACTICE/tree/master/1266-minimum-time-visiting-all-points) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/prince728/DSA-PRACTICE/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/prince728/DSA-PRACTICE/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
