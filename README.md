@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/prince728/DSA-PRACTICE/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/prince728/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0709-to-lower-case](https://github.com/prince728/DSA-PRACTICE/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/prince728/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/prince728/DSA-PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/prince728/DSA-PRACTICE/tree/master/0824-goat-latin) |
