@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/prince728/DSA-PRACTICE/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1367-linked-list-in-binary-tree) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
