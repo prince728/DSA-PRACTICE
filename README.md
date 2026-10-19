@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/prince728/DSA-PRACTICE/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/prince728/DSA-PRACTICE/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0492-construct-the-rectangle](https://github.com/prince728/DSA-PRACTICE/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0539-minimum-time-difference) |
