@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/prince728/DSA-PRACTICE/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0633-sum-of-square-numbers) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0728-self-dividing-numbers) |
