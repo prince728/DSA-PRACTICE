@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince728/DSA-PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
+| [0794-valid-tic-tac-toe-state](https://github.com/prince728/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/prince728/DSA-PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
+| [0794-valid-tic-tac-toe-state](https://github.com/prince728/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1572-matrix-diagonal-sum) |
