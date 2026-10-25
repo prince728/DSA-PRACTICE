@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/prince728/DSA-PRACTICE/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0722-remove-comments](https://github.com/prince728/DSA-PRACTICE/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/prince728/DSA-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince728/DSA-PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0606-construct-string-from-binary-tree) |
 | [0709-to-lower-case](https://github.com/prince728/DSA-PRACTICE/tree/master/0709-to-lower-case) |
+| [0722-remove-comments](https://github.com/prince728/DSA-PRACTICE/tree/master/0722-remove-comments) |
 | [0771-jewels-and-stones](https://github.com/prince728/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/prince728/DSA-PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
