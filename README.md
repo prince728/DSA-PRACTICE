@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prince728/DSA-PRACTICE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince728/DSA-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince728/DSA-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince728/DSA-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince728/DSA-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/prince728/DSA-PRACTICE/tree/master/0886-possible-bipartition) |
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prince728/DSA-PRACTICE/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prince728/DSA-PRACTICE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
