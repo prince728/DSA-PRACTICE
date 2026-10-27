@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/prince728/DSA-PRACTICE/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/prince728/DSA-PRACTICE/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0189-rotate-array) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prince728/DSA-PRACTICE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/prince728/DSA-PRACTICE/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/prince728/DSA-PRACTICE/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
