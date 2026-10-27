@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/prince728/DSA-PRACTICE/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/prince728/DSA-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/prince728/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prince728/DSA-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/prince728/DSA-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/prince728/DSA-PRACTICE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/prince728/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/prince728/DSA-PRACTICE/tree/master/0138-copy-list-with-random-pointer) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/prince728/DSA-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/prince728/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prince728/DSA-PRACTICE/tree/master/0200-number-of-islands) |
