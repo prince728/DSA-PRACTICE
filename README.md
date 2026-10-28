@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/prince728/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/prince728/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0414-third-maximum-number) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/prince728/DSA-PRACTICE/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/prince728/DSA-PRACTICE/tree/master/0441-arranging-coins) |
