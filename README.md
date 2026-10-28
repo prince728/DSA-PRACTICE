@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/prince728/DSA-PRACTICE/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/prince728/DSA-PRACTICE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/prince728/DSA-PRACTICE/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/prince728/DSA-PRACTICE/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/prince728/DSA-PRACTICE/tree/master/0204-count-primes) |
