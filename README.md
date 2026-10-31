@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/prince728/DSA-PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/prince728/DSA-PRACTICE/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0539-minimum-time-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0551-student-attendance-record-i) |
