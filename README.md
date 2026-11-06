@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prince728/DSA-PRACTICE/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0690-employee-importance](https://github.com/prince728/DSA-PRACTICE/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/prince728/DSA-PRACTICE/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/prince728/DSA-PRACTICE/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/prince728/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/prince728/DSA-PRACTICE/tree/master/0690-employee-importance) |
 | [0814-binary-tree-pruning](https://github.com/prince728/DSA-PRACTICE/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince728/DSA-PRACTICE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/prince728/DSA-PRACTICE/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prince728/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/prince728/DSA-PRACTICE/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prince728/DSA-PRACTICE/tree/master/0743-network-delay-time) |
