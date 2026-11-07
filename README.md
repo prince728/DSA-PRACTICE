@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/prince728/DSA-PRACTICE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/prince728/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/prince728/DSA-PRACTICE/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0454-4sum-ii) |
+| [0500-keyboard-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0525-contiguous-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/prince728/DSA-PRACTICE/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/prince728/DSA-PRACTICE/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0522-longest-uncommon-subsequence-ii) |
