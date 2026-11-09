@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince728/DSA-PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/prince728/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
+| [0804-unique-morse-code-words](https://github.com/prince728/DSA-PRACTICE/tree/master/0804-unique-morse-code-words) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/prince728/DSA-PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/prince728/DSA-PRACTICE/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/prince728/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/prince728/DSA-PRACTICE/tree/master/0804-unique-morse-code-words) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/prince728/DSA-PRACTICE/tree/master/0722-remove-comments) |
 | [0771-jewels-and-stones](https://github.com/prince728/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/prince728/DSA-PRACTICE/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/prince728/DSA-PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/prince728/DSA-PRACTICE/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/prince728/DSA-PRACTICE/tree/master/0830-positions-of-large-groups) |
