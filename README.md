@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/prince728/DSA-PRACTICE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
+| [0927-three-equal-parts](https://github.com/prince728/DSA-PRACTICE/tree/master/0927-three-equal-parts) |
 | [0929-unique-email-addresses](https://github.com/prince728/DSA-PRACTICE/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0941-valid-mountain-array) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/prince728/DSA-PRACTICE/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0927-three-equal-parts](https://github.com/prince728/DSA-PRACTICE/tree/master/0927-three-equal-parts) |
 | [0989-add-to-array-form-of-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prince728/DSA-PRACTICE/tree/master/1232-check-if-it-is-a-straight-line) |
