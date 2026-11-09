@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/prince728/DSA-PRACTICE/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
+| [1184-distance-between-bus-stops](https://github.com/prince728/DSA-PRACTICE/tree/master/1184-distance-between-bus-stops) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prince728/DSA-PRACTICE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince728/DSA-PRACTICE/tree/master/1266-minimum-time-visiting-all-points) |
