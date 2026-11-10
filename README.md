@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/prince728/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 | [0804-unique-morse-code-words](https://github.com/prince728/DSA-PRACTICE/tree/master/0804-unique-morse-code-words) |
+| [0812-largest-triangle-area](https://github.com/prince728/DSA-PRACTICE/tree/master/0812-largest-triangle-area) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/prince728/DSA-PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/prince728/DSA-PRACTICE/tree/master/0754-reach-a-number) |
 | [0780-reaching-points](https://github.com/prince728/DSA-PRACTICE/tree/master/0780-reaching-points) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/prince728/DSA-PRACTICE/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0812-largest-triangle-area](https://github.com/prince728/DSA-PRACTICE/tree/master/0812-largest-triangle-area) |
 | [0927-three-equal-parts](https://github.com/prince728/DSA-PRACTICE/tree/master/0927-three-equal-parts) |
 | [0989-add-to-array-form-of-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/prince728/DSA-PRACTICE/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/prince728/DSA-PRACTICE/tree/master/0223-rectangle-area) |
+| [0812-largest-triangle-area](https://github.com/prince728/DSA-PRACTICE/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prince728/DSA-PRACTICE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince728/DSA-PRACTICE/tree/master/1266-minimum-time-visiting-all-points) |
 ## Prime Factorization
@@ -984,4 +987,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/prince728/DSA-PRACTICE/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince728/DSA-PRACTICE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince728/DSA-PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/prince728/DSA-PRACTICE/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
