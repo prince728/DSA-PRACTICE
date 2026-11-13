@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/prince728/DSA-PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
+| [0848-shifting-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/prince728/DSA-PRACTICE/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/prince728/DSA-PRACTICE/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/prince728/DSA-PRACTICE/tree/master/0831-masking-personal-information) |
+| [0848-shifting-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/prince728/DSA-PRACTICE/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [1109-corporate-flight-bookings](https://github.com/prince728/DSA-PRACTICE/tree/master/1109-corporate-flight-bookings) |
