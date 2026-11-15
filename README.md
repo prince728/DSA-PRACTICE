@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/prince728/DSA-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1514-path-with-maximum-probability](https://github.com/prince728/DSA-PRACTICE/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/prince728/DSA-PRACTICE/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0542-01-matrix) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2050-parallel-courses-iii](https://github.com/prince728/DSA-PRACTICE/tree/master/2050-parallel-courses-iii) |
 ## Binary Search Tree
 |  |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prince728/DSA-PRACTICE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/prince728/DSA-PRACTICE/tree/master/1390-four-divisors) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2652-sum-multiples](https://github.com/prince728/DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [1109-corporate-flight-bookings](https://github.com/prince728/DSA-PRACTICE/tree/master/1109-corporate-flight-bookings) |
 | [1124-longest-well-performing-interval](https://github.com/prince728/DSA-PRACTICE/tree/master/1124-longest-well-performing-interval) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String Matching
 |  |
 | ------- |
