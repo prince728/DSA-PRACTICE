@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1417-reformat-the-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1417-reformat-the-string) |
 | [1446-consecutive-characters](https://github.com/prince728/DSA-PRACTICE/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prince728/DSA-PRACTICE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
