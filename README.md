@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince728/DSA-PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1124-longest-well-performing-interval](https://github.com/prince728/DSA-PRACTICE/tree/master/1124-longest-well-performing-interval) |
+| [1138-alphabet-board-path](https://github.com/prince728/DSA-PRACTICE/tree/master/1138-alphabet-board-path) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prince728/DSA-PRACTICE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3731-find-missing-elements](https://github.com/prince728/DSA-PRACTICE/tree/master/3731-find-missing-elements) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/prince728/DSA-PRACTICE/tree/master/1078-occurrences-after-bigram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1138-alphabet-board-path](https://github.com/prince728/DSA-PRACTICE/tree/master/1138-alphabet-board-path) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/prince728/DSA-PRACTICE/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/prince728/DSA-PRACTICE/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
