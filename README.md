@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/prince728/DSA-PRACTICE/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/prince728/DSA-PRACTICE/tree/master/1110-delete-nodes-and-return-forest) |
 | [1124-longest-well-performing-interval](https://github.com/prince728/DSA-PRACTICE/tree/master/1124-longest-well-performing-interval) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/prince728/DSA-PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/prince728/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/prince728/DSA-PRACTICE/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/prince728/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
