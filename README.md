@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/prince728/DSA-PRACTICE/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0922-sort-array-by-parity-ii) |
 | [0927-three-equal-parts](https://github.com/prince728/DSA-PRACTICE/tree/master/0927-three-equal-parts) |
 | [0929-unique-email-addresses](https://github.com/prince728/DSA-PRACTICE/tree/master/0929-unique-email-addresses) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/prince728/DSA-PRACTICE/tree/master/0780-reaching-points) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/prince728/DSA-PRACTICE/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0812-largest-triangle-area](https://github.com/prince728/DSA-PRACTICE/tree/master/0812-largest-triangle-area) |
+| [0908-smallest-range-i](https://github.com/prince728/DSA-PRACTICE/tree/master/0908-smallest-range-i) |
 | [0927-three-equal-parts](https://github.com/prince728/DSA-PRACTICE/tree/master/0927-three-equal-parts) |
 | [0989-add-to-array-form-of-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
