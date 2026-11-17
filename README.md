@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/prince728/DSA-PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
+| [0833-find-and-replace-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0833-find-and-replace-in-string) |
 | [0848-shifting-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/prince728/DSA-PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/prince728/DSA-PRACTICE/tree/master/0804-unique-morse-code-words) |
 | [0817-linked-list-components](https://github.com/prince728/DSA-PRACTICE/tree/master/0817-linked-list-components) |
+| [0833-find-and-replace-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0833-find-and-replace-in-string) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince728/DSA-PRACTICE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prince728/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/prince728/DSA-PRACTICE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
+| [0833-find-and-replace-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0833-find-and-replace-in-string) |
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/prince728/DSA-PRACTICE/tree/master/0905-sort-array-by-parity) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/prince728/DSA-PRACTICE/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/prince728/DSA-PRACTICE/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/prince728/DSA-PRACTICE/tree/master/0831-masking-personal-information) |
+| [0833-find-and-replace-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0833-find-and-replace-in-string) |
 | [0848-shifting-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/prince728/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0859-buddy-strings) |
