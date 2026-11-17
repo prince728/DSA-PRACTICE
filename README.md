@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0927-three-equal-parts](https://github.com/prince728/DSA-PRACTICE/tree/master/0927-three-equal-parts) |
 | [0989-add-to-array-form-of-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1185-day-of-the-week](https://github.com/prince728/DSA-PRACTICE/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/prince728/DSA-PRACTICE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/prince728/DSA-PRACTICE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
