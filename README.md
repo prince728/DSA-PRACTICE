@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/prince728/DSA-PRACTICE/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/prince728/DSA-PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/prince728/DSA-PRACTICE/tree/master/0520-detect-capital) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prince728/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/prince728/DSA-PRACTICE/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/prince728/DSA-PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0532-k-diff-pairs-in-an-array) |
