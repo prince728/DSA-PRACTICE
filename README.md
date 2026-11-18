@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/prince728/DSA-PRACTICE/tree/master/0825-friends-of-appropriate-ages) |
 | [0833-find-and-replace-in-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0833-find-and-replace-in-string) |
 | [0848-shifting-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0848-shifting-letters) |
+| [0849-maximize-distance-to-closest-person](https://github.com/prince728/DSA-PRACTICE/tree/master/0849-maximize-distance-to-closest-person) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0893-groups-of-special-equivalent-strings) |
