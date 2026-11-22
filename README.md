@@ -800,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prince728/DSA-PRACTICE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/prince728/DSA-PRACTICE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/prince728/DSA-PRACTICE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/prince728/DSA-PRACTICE/tree/master/0868-binary-gap) |
 ## Recursion
 |  |
