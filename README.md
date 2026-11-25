@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/prince728/DSA-PRACTICE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/prince728/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/prince728/DSA-PRACTICE/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/prince728/DSA-PRACTICE/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/prince728/DSA-PRACTICE/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/prince728/DSA-PRACTICE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/prince728/DSA-PRACTICE/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/prince728/DSA-PRACTICE/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/prince728/DSA-PRACTICE/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prince728/DSA-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/prince728/DSA-PRACTICE/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
