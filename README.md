@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/prince728/DSA-PRACTICE/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/prince728/DSA-PRACTICE/tree/master/0849-maximize-distance-to-closest-person) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prince728/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/prince728/DSA-PRACTICE/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/prince728/DSA-PRACTICE/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/prince728/DSA-PRACTICE/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/prince728/DSA-PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/prince728/DSA-PRACTICE/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/prince728/DSA-PRACTICE/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prince728/DSA-PRACTICE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/prince728/DSA-PRACTICE/tree/master/0886-possible-bipartition) |
 | [0965-univalued-binary-tree](https://github.com/prince728/DSA-PRACTICE/tree/master/0965-univalued-binary-tree) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/prince728/DSA-PRACTICE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/prince728/DSA-PRACTICE/tree/master/0693-binary-number-with-alternating-bits) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/prince728/DSA-PRACTICE/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/prince728/DSA-PRACTICE/tree/master/0868-binary-gap) |
 ## Recursion
 |  |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/prince728/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0766-toeplitz-matrix) |
 | [0794-valid-tic-tac-toe-state](https://github.com/prince728/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/prince728/DSA-PRACTICE/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
