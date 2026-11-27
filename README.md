@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prince728/DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prince728/DSA-PRACTICE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/prince728/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/prince728/DSA-PRACTICE/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prince728/DSA-PRACTICE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/prince728/DSA-PRACTICE/tree/master/0443-string-compression) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/prince728/DSA-PRACTICE/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/prince728/DSA-PRACTICE/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/prince728/DSA-PRACTICE/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/prince728/DSA-PRACTICE/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/prince728/DSA-PRACTICE/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/prince728/DSA-PRACTICE/tree/master/0492-construct-the-rectangle) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/prince728/DSA-PRACTICE/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/prince728/DSA-PRACTICE/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/prince728/DSA-PRACTICE/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/prince728/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
