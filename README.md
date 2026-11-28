@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prince728/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/prince728/DSA-PRACTICE/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/prince728/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/prince728/DSA-PRACTICE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/prince728/DSA-PRACTICE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prince728/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/prince728/DSA-PRACTICE/tree/master/1109-corporate-flight-bookings) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/prince728/DSA-PRACTICE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/prince728/DSA-PRACTICE/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/prince728/DSA-PRACTICE/tree/master/0868-binary-gap) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/prince728/DSA-PRACTICE/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Recursion
 |  |
 | ------- |
